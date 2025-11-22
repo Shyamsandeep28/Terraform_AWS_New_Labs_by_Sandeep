@@ -147,7 +147,7 @@ Each folder contains:
 ### **Step 1: Clone the repo**
 
 ```bash
-git clone 
+git clone https://github.com/Shyamsandeep28/Terraform_AWS_New_Labs_by_Sandeep.git
 ```
 
 ### **Step 2: Go to any lab folder**
