@@ -147,7 +147,7 @@ Each folder contains:
 ### **Step 1: Clone the repo**
 
 ```bash
-git clone <your-repo-url>
+git clone 
 ```
 
 ### **Step 2: Go to any lab folder**
